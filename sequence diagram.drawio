@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T12:50:51.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DUMXpQssJ9-0PLEwvqsC" version="20.7.4" type="github"><diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-20T13:00:20.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kmYRLQiVWBOMTo-pGH_A" version="20.7.4" type="github">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="930" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7baba1c4bc27f4b0-2" value="Online Bookstore" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-3" value="Customer Cart" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
+          <mxGeometry x="45" y="120" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OW_sPPAjyFS8ZsVyZUot-11" value="Book shipped" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.027;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.029;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7baba1c4bc27f4b0-3" target="7baba1c4bc27f4b0-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="34.73000000000002" y="459.71000000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="109.73000000000002" y="459.71000000000004" />
+              <mxPoint x="439.73" y="409.71000000000004" />
+            </Array>
+            <mxPoint x="185.0000000000001" y="459.90999999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-4" value="Warehouse Staff" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="540" y="80" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-17" value="Send confirmation email and update inventory" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1.051;exitY=0.926;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.029;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="440" />
+              <mxPoint x="320" y="380" />
+            </Array>
+            <mxPoint x="530" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="585" y="420" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-23" value="Payment succesful" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=-0.021;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="420" as="sourcePoint" />
+            <mxPoint x="280" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-11" value="Login to website" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-14" value="Add book to cart" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="590" y="520" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-39" value="Receives notification" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.02;exitY=0.128;exitPerimeter=0;exitDx=0;exitDy=0;" parent="1" source="7baba1c4bc27f4b0-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595.3333333333335" y="501" as="sourcePoint" />
+            <mxPoint x="600.3333333333335" y="539.3333333333334" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="441" />
+              <mxPoint x="650" y="539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW_sPPAjyFS8ZsVyZUot-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="80" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OW_sPPAjyFS8ZsVyZUot-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.42;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7baba1c4bc27f4b0-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149" y="662.8571428571429" as="sourcePoint" />
+            <mxPoint x="150" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="145" y="180" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-21" value="Go to checkout" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.027;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-13" target="7baba1c4bc27f4b0-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="306" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="310" />
+              <mxPoint x="700" y="260" />
+            </Array>
+            <mxPoint x="440" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW_sPPAjyFS8ZsVyZUot-5" value="Verify payment" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.251;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.076;exitY=0.464;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="309.82" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="245" y="309.82" />
+              <mxPoint x="575" y="259.82" />
+            </Array>
+            <mxPoint x="280" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
